@@ -17,4 +17,4 @@
    **2.** Create Profit and Loss (P&L) reports by _[Markets]
 
 - **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-- 
+
