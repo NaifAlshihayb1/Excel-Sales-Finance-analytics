@@ -6,7 +6,6 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets] ( https://github.com/NaifAlshihayb1/Excel-Sales-Finance-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf ) 
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 -------------------------------------------------------------------------------------------------------------------------------
 ## Finance Report :
 
@@ -16,5 +15,5 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets] ( https://github.com/NaifAlshihayb1/Excel-Sales-Finance-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf ) 
 
-- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+   **3.** Create Profit and Loss (P&L) reports by _[Months]  ( https://github.com/NaifAlshihayb1/Excel-Sales-Finance-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf ) 
 
